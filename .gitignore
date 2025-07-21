@@ -1,6 +1,3 @@
 # Arquivos temporários e históricos do R
 .Rhistory
 .RData
-
-# Dados grandes
-*.rds
