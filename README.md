@@ -1,5 +1,5 @@
 # TCC - Fração de Cura
-Repositório do Trabalho de Conclusão de Curso de Milena Doarte e Yasmin Santana. UFRJ, 2025.
+Repositório do Trabalho de Conclusão de Curso de Milena Doarte e Yasmin Santana (UFRJ, 2025 – disponível em: http://hdl.handle.net/11422/26535).
 
 # 📝 Visão Geral do Projeto
 
